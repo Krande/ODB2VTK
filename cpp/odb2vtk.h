@@ -29,6 +29,8 @@
 # ========================================================================*/
 
 #pragma once
+#include <cstdint> // for standard C++ environments
+#include <iostream>
 #include <map>
 #include <odb_API.h>
 #include <string>
